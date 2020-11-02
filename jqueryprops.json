@@ -1,0 +1,31 @@
+[
+    "ajaxComplete","ajaxError","ajaxSend","ajaxStart","ajaxStop","ajaxSuccess","ajax","ajaxPrefilter","ajaxSetup","ajaxTransport","get","getJSON","getScript","param","post","load","serialize","serializeArray",
+
+    "addClass","attr","hasClass","html","prop","removeAttr","removeClass","removeProp","toggleClass","val",
+
+    "add","disable","disabled","empty","fire","fired","fireWith","has","lock","locked","remove","Callbacks",
+
+    "holdReady","noConflict","ready","readyException","sub","when",
+
+    "addClass","css","hasClass","height","innerHeight","innerWidth","cssHooks","cssNumber","escapeSelector","offset","outerHeight","outerWidth","position","removeClass","scrollLeft","scrollTop","toggleClass","width",
+
+    "clearQueue","data","dequeue","data","dequeue","hasData","queue","removeData","queue","removeData",
+
+    "always","catch","done","fail","isRejected","isResolved","notify","notifyWith","pipe","progress","promise","reject","rejectWith","resolve","resolveWith","state","then","Deferred","when","promise",
+
+    "height","innerHeight","innerWidth","outerHeight","outerWidth","width",
+
+    "animate","clearQueue","delay","dequeue","fadeIn","fadeOut","fadeTo","fadeToggle","finish","hide","interval","off","speed","queue","show","slideDown","slideToggle","slideUp","stop","toggle",
+
+    "bind","blur","change","click","contextmenu","dblclick","delegate","die","error","currentTarget","data","delegateTarget","isDefaultPrevented","isImmediatePropagationStopped","isPropagationStopped","metaKey","namespace","pageX","pageY","preventDefault","relatedTarget","result","stopImmediatePropagation","stopPropagation","target","timeStamp","type","which","focus","focusin","focusout","hover","holdReady","proxy","ready","keydown","keypress","keyup","live","load","mousedown","mouseenter","mouseleave","mousemove","mouseout","mouseover","mouseup","off","on","one","ready","resize","scroll","select","submit","toggle","trigger","triggerHandler","unbind","undelegate","unload",
+
+    "blur","change","focus","focusin","focusout","param","select","serialize","serializeArray","submit","val",
+
+    "addClass","after","append","appendTo","attr","before","clone","css","detach","empty","hasClass","height","html","innerHeight","innerWidth","insertAfter","insertBefore","cssNumber","htmlPrefilter","offset","outerHeight","outerWidth","position","prepend","prependTo","prop","remove","removeAttr","removeClass","removeProp","replaceAll","replaceWith","scrollLeft","scrollTop","text","toggleClass","unwrap","val","width","wrap","wrapAll","wrapInner",
+
+    "data","each","get","index","noConflict","param","removeData","size","toArray",
+
+    "offset","offsetParent","position","scrollLeft","scrollTop",
+
+    "add","addBack","andSelf","children","closest","contents","each","end","eq","even","filter","find","first","has","is","last","map","next","nextAll","nextUntil","not","odd","offsetParent","parent","parents","parentsUntil","prev","prevAll","prevUntil","siblings","slice"
+]
